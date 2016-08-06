@@ -1,0 +1,28 @@
+_repo: France-and-England-in-North-America--a-Series-of-Historical-Narratives---Part-3_9997
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parkman, Francis
+    alias: Parkman, F. (Francis)
+    birthdate: 1823
+    deathdate: 1893
+    gutenberg_agent_id: '510'
+    url: http://www.gutenberg.org/2009/agents/510
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Parkman
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9997'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Canada -- History -- To 1763 (New France)'
+- GITenberg
+title: France and England in North America; a Series of Historical Narratives — Part
+  3
+url: http://www.gutenberg.org/ebooks/9997
